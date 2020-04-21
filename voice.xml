@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Say voice="alice">Mensaje importante para empleados de Compañia Armadora (CASA).</Say>
-    <Play>http://raw.githubusercontent.com/thatapiguy/Twilio-XML/master/Recording.mp3</Play>
+    <Say voice="alice" language="es-MX">Mensaje importante para empleados de Compañia Armadora (CASA).</Say>
 </Response>

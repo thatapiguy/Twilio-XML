@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Say voice="alice" language="es-MX">Mensaje importante para empleados de Compañia Armadora (CASA).</Say>
-    <Play> https://sienna-squid-4545.twil.io/assets/Recording.mp3 </Play>
+        <Play> http://sienna-squid-4545.twil.io/assets/Recording.mp3 </Play>
 </Response>
